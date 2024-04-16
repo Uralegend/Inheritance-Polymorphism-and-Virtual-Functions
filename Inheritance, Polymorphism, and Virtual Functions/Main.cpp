@@ -9,7 +9,7 @@ int main() {
     // Vehicle test
     std::string manufacturer;
     int year, doors, capacity;
-
+    // You have to put a "-" between multiple word companies so the program knows. Like General-Motors 
     std::cout << "Enter manufacturer and year built for Vehicle: ";
     std::cin >> manufacturer >> year;
     Vehicle vehicle(manufacturer, year);
