@@ -1,3 +1,6 @@
+// Brenton Graham
+// CIS 1202 501
+// April 16, 2024
 #include <iostream>
 #include "Car.h"
 #include "Truck.h"
